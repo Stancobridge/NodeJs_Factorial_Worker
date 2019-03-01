@@ -1,0 +1,11 @@
+{
+  "name": "worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "noder_worker.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC"
+}
